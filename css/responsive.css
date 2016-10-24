@@ -60,7 +60,7 @@
 /* All Mobile Sizes (devices and browers) */
 @media only screen and (max-width: 767px) {
   header .logo-container {
-    left: 75px;
+    left: 15px;
   }
   .call-button .button {
     float: none !important;
