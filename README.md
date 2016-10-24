@@ -1,2 +1,0 @@
-# komaldev
-Komal Development Company
